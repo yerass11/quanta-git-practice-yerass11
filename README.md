@@ -1,4 +1,4 @@
-# Quanta Git Practice - `<username>`
+# Quanta Git Practice - `yerass11`
 
 ## Overview
 
