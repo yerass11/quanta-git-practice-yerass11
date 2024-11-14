@@ -16,14 +16,14 @@ This practice follows the **GitFlow** workflow, which emphasizes the use of spec
 
 ## Table of Contents
 
-1. [Initialization and Basic Commands](#1-initialization-and-basic-commands)
-2. [Creating and Managing Branches](#2-creating-and-managing-branches)
-3. [Working with Feature Branches](#3-working-with-feature-branches)
-4. [Resolving Merge Conflicts](#4-resolving-merge-conflicts)
-5. [Using Rebase](#5-using-rebase)
-6. [Understanding Force Push and Its Risks](#6-understanding-force-push-and-its-risks)
-7. [Using Cherry-Pick](#7-using-cherry-pick)
-8. [Working with Commit Logs](#8-working-with-commit-logs)
-9. [Restoring Changes](#9-restoring-changes)
-10. [Working with Tags](#10-working-with-tags)
+1. **Initialization and Basic Commands**
+2. **Creating and Managing Branches**
+3. **Working with Feature Branches**
+4. **Resolving Merge Conflicts**
+5. **Using Rebase**
+6. **Understanding Force Push and Its Risks**
+7. **Using Cherry-Pick**
+8. **Working with Commit Logs**
+9. **Restoring Changes**
+10. **Working with Tags**
 
