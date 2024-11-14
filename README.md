@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Quanta Git Practice** repository! This repository is designed to help you master Git workflows using the **GitFlow** methodology. By completing the tasks outlined below, you'll gain hands-on experience with essential Git operations, branch management, and best practices for maintaining a clean and organized Git history.
+Welcome to the **Quanta Git Practice** repository! This repository is designed to help master Git workflows using the **GitFlow** methodology. By completing the tasks, you'll gain hands-on experience with essential Git operations, branch management, and best practices for maintaining a clean and organized Git history.
 
 ## GitFlow Methodology
 
